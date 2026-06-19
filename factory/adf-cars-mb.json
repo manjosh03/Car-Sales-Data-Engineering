@@ -1,0 +1,15 @@
+{
+	"name": "adf-cars-mb",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d96a838-57a5-41bd-840a-7728ec08965c",
+		"tenantId": "572e1955-31a7-4897-9aa2-92c4bf7ea0da"
+	}
+}
